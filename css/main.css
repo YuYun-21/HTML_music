@@ -1,0 +1,115 @@
+body{margin: 0;}
+.main{
+	width: 1500px;
+	margin: 0 auto;
+	border:1px solid dodgerblue;
+}
+
+.tou{
+	margin-top: -50px;
+	width: 1500px;
+	height: 780px;
+	background-image: url(../images/banner4.jpg);
+	background-repeat:no-repeat ;
+}
+.tou1{
+	margin-left:70px;
+	margin-right: 70px;
+	margin-top: 50px;
+	height: 100px;
+}
+.menu{
+	width: 800px;
+	height: 40px;
+	margin-left: 80px;
+	margin-top: 50px;
+	float: left;
+	color: aliceblue;
+	
+}
+	.menu ul{
+		margin: 0;
+		padding: 0;
+	}
+	.menu ul li{
+		font-size:20px;
+		font-weight: bold;
+		float: left;
+		width: 130px;
+		height: 40px;
+		text-align: center;
+		list-style: none;
+		line-height: 40px;
+	}
+	.menu ul li a:link{
+		font-size:20px;
+		font-weight: bold;
+		color: aliceblue;
+	}
+	.menu ul li a:visited{
+		text-decoration: none;
+		color: aliceblue;
+	}
+	.menu ul li a:hover{
+		font-size: 25px;
+		display: block;
+		color: aliceblue;
+	}
+	.menu ul li a:active{
+		text-decoration: none;
+		color: aliceblue;
+	}
+.logo1{
+	float: right;
+	margin-right: 60px;
+	margin-top: 40px;
+	height: 100px;
+}
+.tou2{
+	height: 440px;
+	width: 1400px;
+	margin: 0 auto;
+	margin-left: 80px;
+	margin-top: 450px;
+}
+
+.zhong{
+	margin: 70px 100px;
+}
+.zhong1{
+	margin: 10px 100px;
+}
+
+.wei{
+	width: 1500px;
+	height: 510px;
+	margin: 0 auto;
+	background-image: url(../images/bgc.png);
+	background-repeat:no-repeat ;
+	background-size:100%; 
+}
+.wei1{
+	margin: 0 auto;
+	margin-left: 90px;
+	margin-top: 20px;
+	width: 1420px;
+	float: left;
+}
+.wei2{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 450px;
+	float: left;
+	width: 1320px;
+}
+.block{
+	width: 30%;
+	height:200px;
+	margin-left: 35px;
+	float: left;
+}
+.shang{
+	width: 1320px;
+	height: 260px;
+	margin-top: 70px;
+}
